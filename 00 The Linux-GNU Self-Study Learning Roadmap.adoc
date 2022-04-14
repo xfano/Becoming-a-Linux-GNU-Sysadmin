@@ -1,0 +1,57 @@
+.*Who am I?*
+ 
+I'm Chani with a non-technical background; I aspire to be among the Linux/GNU system administrators (sysadmins) in the world. I've decided to take the self-study route instead of the traditional route because I'm no longer living with my parents. Although the self-study route is the most affordable option I have, I also prefer not having to studying courses that are not of my interest and are not related to the Linux/GNU sysadmin career.
+
+.*Why Linux/GNU sysadmin?*
+
+What I love about Linux/GNU is that it gives me the right and freedom to customize it to however I like it. It gives me a satisfying experience in installing, fixing, and modifying. I've longed to experience it since I was 16 years old because we didn't have a family computer early on. But it didn't stop me from doing some fixing and exploring on Windows. I was only able to go full-on Linux 8 years later, year 2020. I haven't looked back since. I enjoy exploring and learning more about Linux as much as I love helping other people in installing an Operating System anf fixing a problem in their machine. If I have to spend most of my lifetime to work so me and my loved ones can survive, it's better to work on something that I'm passionate about. I believe in freedom, cooperation, and in Open Source Software, so Linux/GNU it is for me.
+
+.*What distro am I currently enjoying?*
+
+Void Linux
+
+.*What is the Linux/GNU Learning Roadmap for?*
+
+We can easily get lost with the self-study route because there's a lot of resources and advices made available on the internet. Creating a self-study roadmap is a way to help you and me stay on the road. It's a simple guideline to remind us of what truly matters or, at least, of the priorities, on becoming a Linux/GNU sysadmin.
+
+---
+
+NOTE: The self-study roadmap is still in progress. I'll add more as I go. Please feel free to fork and modify it to however you desire. Feel free to suggest as well. We're in this together!
+
+=== Foundation
+
+[options = "header"]
+|=======================
+| Books |  Cost  | Status
+| https://www.amazon.com/gp/product/B082MBQ46T/[Using and Administering Linux: Zero to SysAdmin (Volume 1)] | $23.74 |  Reading
+| https://pages.cs.wisc.edu/~remzi/OSTEP/[Operating Systems: Three Easy Pieces] | Free | 
+| https://www.amazon.com/Code-Language-Computer-Developer-Practices-ebook/dp/B00JDMPOK2/[Code: The Hidden Language of Computer Hardware and Software] | $14 |
+| https://linuxcommand.org/tlcl.php[The Linux Command Line] | Free |
+| https://www.amazon.com/gp/product/B082YY2D85/[Using and Administering Linux: Zero to SysAdmin (Volume 2)] | $23.74 |
+| https://www.amazon.com/gp/product/B082XF8PRH/[Using and Administering Linux: Zero to SysAdmin (Volume 3)] | $23.74 |
+| https://www.amazon.com/gp/product/B07FLDVV1T/[The Linux Philosophy for SysAdmins: And Everyone Who Wants To Be One] | $23.74 |
+|=======================
+
+=== Projects & Goals
+
+[options = "header"]
+|=======================
+| Project or Goal | Purpose | Status
+| Make a website | To document my experience and learnings |  
+| Install https://archlinux.org/[Arch Linux] | Command Line (CLI) and Linux experience |
+| Install and explore https://www.gentoo.org/[Gentoo] | More CLI and Linux experience |
+| https://www.linuxfromscratch.org/[Linux from Scratch] | To solidify my learnings and for more Linux experience |
+| Build my own PC | To solidify my hardware learnings and gain experience | 
+| Build a https://www.redhat.com/sysadmin/building-home-lab[homelab] | To solidify my learnings and to explore a lot more sysadmin stuff |
+| Install and explore https://www.freebsd.org/[FreeBSD] | Unix experience and how it differs from Linux |
+|=======================
+
+=== Certification
+
+[options = "header"]
+|=======================
+| Certificates | Fee | Status
+| https://www.lpi.org/our-certifications/linux-essentials-overview[Linux Professional Institute Linux Essentials] | ~ $120 |
+| https://www.lpi.org/our-certifications/lpic-1-overview[Linux Professional Institute LPIC-1] | ~ $120 |
+| https://www.redhat.com/en/services/certification/rhcsa[Red Hat Certified System Administrator (RHCSA)] | ~ $450 |
+|=======================
