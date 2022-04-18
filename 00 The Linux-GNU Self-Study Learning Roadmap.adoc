@@ -52,6 +52,9 @@ NOTE: The self-study roadmap is still in progress. I'll add more as I go. Please
 |=======================
 | Certificates | Fee | Status
 | https://www.lpi.org/our-certifications/linux-essentials-overview[Linux Professional Institute Linux Essentials] | ~ $120 |
-| https://www.lpi.org/our-certifications/lpic-1-overview[Linux Professional Institute LPIC-1] | ~ $120 |
+| https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/[Linux Foundation Certified System Administrator (LFCS)] | ? |
 | https://www.redhat.com/en/services/certification/rhcsa[Red Hat Certified System Administrator (RHCSA)] | ~ $450 |
+| https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html[CCNA] | ? |
+| https://www.vmware.com/learning/certification/vcta-dcv.html[VMware Certified Technical Associate] | ? |
+| https://aws.amazon.com/certification/[AWS Certification] | ? |
 |=======================
